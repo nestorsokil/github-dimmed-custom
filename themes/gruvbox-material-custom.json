@@ -299,8 +299,8 @@
       "scope": [
         "comment.block.javadoc.java",
         "comment.block.javadoc.java punctuation.definition.comment.java",
-        "variable.parameter.java",
-        "entity.name.type.class.java"
+        "comment.block.javadoc.java variable.parameter.java",
+        "comment.block.javadoc.java entity.name.type.class.java"
       ],
       "settings": {
         "foreground": "#57ab5a"
