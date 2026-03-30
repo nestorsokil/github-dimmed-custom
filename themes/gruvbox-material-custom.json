@@ -277,7 +277,7 @@
     "annotation": "#daaa3f",
     "annotationMember": "#adbac7",
     "enumMember": { "foreground": "#adbac7", "fontStyle": "bold italic" },
-    "property": { "foreground": "#adbac7", "fontStyle": "bold" },
+    "property": { "foreground": "#adbac7", "fontStyle": "bold italic" },
     "keyword": "#f47067",
     "keyword.documentation": { "foreground": "#57ab5a", "fontStyle": "bold italic" },
     "keyword.documentation:java": { "foreground": "#57ab5a", "fontStyle": "bold italic" },
@@ -345,7 +345,8 @@
         "entity"
       ],
       "settings": {
-        "foreground": "#adbac7"
+        "foreground": "#adbac7",
+        "fontStyle": "bold italic"
       }
     },
     {
