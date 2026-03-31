@@ -278,6 +278,7 @@
     "annotationMember": "#adbac7",
     "enumMember": { "foreground": "#adbac7", "fontStyle": "bold italic" },
     "property": { "foreground": "#adbac7", "fontStyle": "bold italic" },
+    "number": "#96d0ff",
     "keyword": "#f47067",
     "keyword.documentation": { "foreground": "#57ab5a", "fontStyle": "bold italic" },
     "keyword.documentation:java": { "foreground": "#57ab5a", "fontStyle": "bold italic" },
@@ -329,10 +330,12 @@
     {
       "scope": [
         "constant.other.placeholder",
-        "constant.character"
+        "constant.character",
+        "constant.numeric",
+        "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#f47067"
+        "foreground": "#96d0ff"
       }
     },
     {
