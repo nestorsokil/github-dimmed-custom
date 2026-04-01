@@ -1,6 +1,6 @@
 {
-  "name": "gruvbox-material-custom",
-  "displayName": "Gruvbox Material Custom",
+  "name": "github-dimmed-custom",
+  "displayName": "GitHub Dimed Custom",
   "description": "Custom theme based on GitHub Dark Dimmed",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
       {
         "label": "GitHub Dimmed Custom",
         "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox-material-custom.json"
+        "path": "./themes/github-dimmed-custom.json"
       }
     ]
   }
